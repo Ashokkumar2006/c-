@@ -7,7 +7,7 @@ cout << "Outer:"<<i<<"\n";
 
 for(int j=1;j<=3;++j){
 cout <<"inner:"<<j<<"\n";
-(2*3)
+(2*3);
 }
 }
 return 0;
